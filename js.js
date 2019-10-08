@@ -10,7 +10,7 @@ let animate = function(){
                 $("#mainImage").attr("src", "dad.png");
             }, 500)
         }
-    }, 200)
+    }, 100)
 
     
     
